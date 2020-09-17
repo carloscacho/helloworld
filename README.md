@@ -1,5 +1,5 @@
 # helloworld
 
-meu primeiro projeto HTML
+meu primeiro projeto JS
 
 by Carlos Cacho
